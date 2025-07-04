@@ -1,0 +1,7 @@
+langchain
+langgraph
+transformers
+bitsandbytes
+langchain-huggingface
+langchain-community
+chromadb
