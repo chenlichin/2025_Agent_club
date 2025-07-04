@@ -29,3 +29,20 @@
 - 科技新知
 - 相關文章
 
+
+## Setup
+安裝需求套件：
+
+- langchain
+- langgraph
+- transformers
+- bitsandbytes
+- langchain-huggingface
+- langchain-community
+- chromadb
+
+可以使用以下指令安裝：
+
+```bash
+pip install langchain langgraph transformers bitsandbytes langchain-huggingface langchain-community chromadb
+```
